@@ -1,0 +1,15 @@
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task1HowManyChotnyhInMassive\bin\Debug\net6.0\Task1HowManyChotnyhInMassive.exe
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task1HowManyChotnyhInMassive\bin\Debug\net6.0\Task1HowManyChotnyhInMassive.deps.json
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task1HowManyChotnyhInMassive\bin\Debug\net6.0\Task1HowManyChotnyhInMassive.runtimeconfig.json
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task1HowManyChotnyhInMassive\bin\Debug\net6.0\Task1HowManyChotnyhInMassive.dll
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task1HowManyChotnyhInMassive\bin\Debug\net6.0\Task1HowManyChotnyhInMassive.pdb
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task1HowManyChotnyhInMassive\obj\Debug\net6.0\Task1HowManyChotnyhInMassive.csproj.AssemblyReference.cache
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task1HowManyChotnyhInMassive\obj\Debug\net6.0\Task1HowManyChotnyhInMassive.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task1HowManyChotnyhInMassive\obj\Debug\net6.0\Task1HowManyChotnyhInMassive.AssemblyInfoInputs.cache
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task1HowManyChotnyhInMassive\obj\Debug\net6.0\Task1HowManyChotnyhInMassive.AssemblyInfo.cs
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task1HowManyChotnyhInMassive\obj\Debug\net6.0\Task1HowManyChotnyhInMassive.csproj.CoreCompileInputs.cache
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task1HowManyChotnyhInMassive\obj\Debug\net6.0\Task1HowManyChotnyhInMassive.dll
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task1HowManyChotnyhInMassive\obj\Debug\net6.0\refint\Task1HowManyChotnyhInMassive.dll
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task1HowManyChotnyhInMassive\obj\Debug\net6.0\Task1HowManyChotnyhInMassive.pdb
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task1HowManyChotnyhInMassive\obj\Debug\net6.0\Task1HowManyChotnyhInMassive.genruntimeconfig.cache
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task1HowManyChotnyhInMassive\obj\Debug\net6.0\ref\Task1HowManyChotnyhInMassive.dll
