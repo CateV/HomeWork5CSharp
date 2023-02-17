@@ -1,0 +1,15 @@
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task2.SummOfElementsOfNechetPositions\bin\Debug\net6.0\Task2.SummOfElementsOfNechetPositions.exe
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task2.SummOfElementsOfNechetPositions\bin\Debug\net6.0\Task2.SummOfElementsOfNechetPositions.deps.json
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task2.SummOfElementsOfNechetPositions\bin\Debug\net6.0\Task2.SummOfElementsOfNechetPositions.runtimeconfig.json
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task2.SummOfElementsOfNechetPositions\bin\Debug\net6.0\Task2.SummOfElementsOfNechetPositions.dll
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task2.SummOfElementsOfNechetPositions\bin\Debug\net6.0\Task2.SummOfElementsOfNechetPositions.pdb
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task2.SummOfElementsOfNechetPositions\obj\Debug\net6.0\Task2.SummOfElementsOfNechetPositions.csproj.AssemblyReference.cache
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task2.SummOfElementsOfNechetPositions\obj\Debug\net6.0\Task2.SummOfElementsOfNechetPositions.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task2.SummOfElementsOfNechetPositions\obj\Debug\net6.0\Task2.SummOfElementsOfNechetPositions.AssemblyInfoInputs.cache
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task2.SummOfElementsOfNechetPositions\obj\Debug\net6.0\Task2.SummOfElementsOfNechetPositions.AssemblyInfo.cs
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task2.SummOfElementsOfNechetPositions\obj\Debug\net6.0\Task2.SummOfElementsOfNechetPositions.csproj.CoreCompileInputs.cache
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task2.SummOfElementsOfNechetPositions\obj\Debug\net6.0\Task2.SummOfElementsOfNechetPositions.dll
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task2.SummOfElementsOfNechetPositions\obj\Debug\net6.0\refint\Task2.SummOfElementsOfNechetPositions.dll
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task2.SummOfElementsOfNechetPositions\obj\Debug\net6.0\Task2.SummOfElementsOfNechetPositions.pdb
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task2.SummOfElementsOfNechetPositions\obj\Debug\net6.0\Task2.SummOfElementsOfNechetPositions.genruntimeconfig.cache
+D:\GeekBrains\4. Знакомство с языками программирования\5.C#\Homework5CSharp\Task2.SummOfElementsOfNechetPositions\obj\Debug\net6.0\ref\Task2.SummOfElementsOfNechetPositions.dll
